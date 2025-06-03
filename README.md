@@ -66,7 +66,7 @@ Designed with practicality in mind, this system can operate on **mobile devices*
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/skin-ai-chatbot.git
+   git clone https://github.com/ChopsySeemakurty/Derma-AI-Next-Gen-AI-Skin-Diagnosis.git
    cd skin-ai-chatbot
 
 
