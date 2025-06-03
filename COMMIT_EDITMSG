@@ -1,0 +1,13 @@
+Assistant checkpoint: Enhanced real-time disease prediction and analysis
+
+Assistant generated file changes:
+- app.py: Remove sample images and enhance real-time prediction, Update upload section with detailed analysis
+
+---
+
+User prompt:
+
+remove sample images classify  real time images for real time disease predection
+
+Replit-Commit-Author: Assistant
+Replit-Commit-Session-Id: 8e6347b2-5be1-4746-b1cf-15ebc380a37c
